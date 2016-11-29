@@ -144,6 +144,8 @@ public class BTree {
 			}
 		}
 
+		
+		
 		void send(Albume[] s) {
 			for (int i = 0; i < order - 1; i++)
 				if (s[i] != null) send(s[i]);
