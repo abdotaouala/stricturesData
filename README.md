@@ -1,2 +1,3 @@
-# stricturesData
-B-Tree/*/AVLTree
+# stricturesDonnees
+## B-Tree
+## AVLTree
